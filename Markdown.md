@@ -8,7 +8,7 @@ In this file, I'm using some markdown syntax.
 
 **Bold can highlight what I want to emphasize.**
 
-I have a link [Link](https://github.com/Quianey/cse15l-lab-reports/blob/main/index.md) to my first file. 
+I have a [Link](https://github.com/Quianey/cse15l-lab-reports/blob/main/index.md) to my first file. 
 
 I can also change to this form: ![Image](https://github.com/Quianey/cse15l-lab-reports/blob/main/index.md)
 
