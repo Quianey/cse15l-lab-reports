@@ -1,11 +1,17 @@
-## Markdown 
+## Markdown
+
 >Blockquote can help me show subtitiles. 
 
-In this file, I'm using some markdown syntax. 
+In this file, I'm using some markdown syntax.
+
 *Italic is a good way to explain something.*
+
 **Bold can highlight what I want to emphasize.**
+
 I have a link [Link](https://github.com/Quianey/cse15l-lab-reports/blob/main/index.md) to my first file. 
+
 I can also change to this form: ![Image](https://github.com/Quianey/cse15l-lab-reports/blob/main/index.md)
+
 ----------------------------------------------
 Finally, I can list some steps:
 * I can use dot.
